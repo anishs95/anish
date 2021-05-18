@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/anish/static/css/main.956fad23.chunk.css",
-    "main.js": "/anish/static/js/main.021517ff.chunk.js",
-    "main.js.map": "/anish/static/js/main.021517ff.chunk.js.map",
+    "main.js": "/anish/static/js/main.8024ce56.chunk.js",
+    "main.js.map": "/anish/static/js/main.8024ce56.chunk.js.map",
     "runtime-main.js": "/anish/static/js/runtime-main.308b823a.js",
     "runtime-main.js.map": "/anish/static/js/runtime-main.308b823a.js.map",
     "static/js/2.19e99e5d.chunk.js": "/anish/static/js/2.19e99e5d.chunk.js",
     "static/js/2.19e99e5d.chunk.js.map": "/anish/static/js/2.19e99e5d.chunk.js.map",
     "index.html": "/anish/index.html",
-    "precache-manifest.729875619911e4ac3e1481faf98f0c8d.js": "/anish/precache-manifest.729875619911e4ac3e1481faf98f0c8d.js",
+    "precache-manifest.6fa4083b1359dc6815e2b84316abacb6.js": "/anish/precache-manifest.6fa4083b1359dc6815e2b84316abacb6.js",
     "service-worker.js": "/anish/service-worker.js",
     "static/css/main.956fad23.chunk.css.map": "/anish/static/css/main.956fad23.chunk.css.map",
     "static/js/2.19e99e5d.chunk.js.LICENSE.txt": "/anish/static/js/2.19e99e5d.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.308b823a.js",
     "static/js/2.19e99e5d.chunk.js",
     "static/css/main.956fad23.chunk.css",
-    "static/js/main.021517ff.chunk.js"
+    "static/js/main.8024ce56.chunk.js"
   ]
 }
