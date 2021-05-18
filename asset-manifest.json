@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/anish/static/css/main.956fad23.chunk.css",
+    "main.js": "/anish/static/js/main.0b2c8a47.chunk.js",
+    "main.js.map": "/anish/static/js/main.0b2c8a47.chunk.js.map",
+    "runtime-main.js": "/anish/static/js/runtime-main.308b823a.js",
+    "runtime-main.js.map": "/anish/static/js/runtime-main.308b823a.js.map",
+    "static/js/2.19e99e5d.chunk.js": "/anish/static/js/2.19e99e5d.chunk.js",
+    "static/js/2.19e99e5d.chunk.js.map": "/anish/static/js/2.19e99e5d.chunk.js.map",
+    "index.html": "/anish/index.html",
+    "precache-manifest.326cd7220ea266de0238bfb9b7dbf495.js": "/anish/precache-manifest.326cd7220ea266de0238bfb9b7dbf495.js",
+    "service-worker.js": "/anish/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/anish/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.19e99e5d.chunk.js.LICENSE.txt": "/anish/static/js/2.19e99e5d.chunk.js.LICENSE.txt",
+    "static/media/hashirshoaeb.png": "/anish/static/media/hashirshoaeb.32f6b574.png",
+    "static/media/resume.pdf": "/anish/static/media/resume.9d3da0e2.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.308b823a.js",
+    "static/js/2.19e99e5d.chunk.js",
+    "static/css/main.956fad23.chunk.css",
+    "static/js/main.0b2c8a47.chunk.js"
+  ]
+}
