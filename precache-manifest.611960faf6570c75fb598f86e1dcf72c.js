@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ca921ee775b439e3ea3f0a4edbe3fff",
+    "revision": "28a10250f87bc4f07d3d588cb00612a7",
     "url": "/anish/index.html"
   },
   {
-    "revision": "c6ea00e7daab06992d25",
+    "revision": "f9d5e337496b75cb80b2",
     "url": "/anish/static/css/main.956fad23.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/anish/static/js/2.19e99e5d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6ea00e7daab06992d25",
-    "url": "/anish/static/js/main.b7afde6f.chunk.js"
+    "revision": "f9d5e337496b75cb80b2",
+    "url": "/anish/static/js/main.2110f30d.chunk.js"
   },
   {
     "revision": "726ebca8a7097f67b906",
